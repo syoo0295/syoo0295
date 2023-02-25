@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-  <li>
-  :mortar_board: Recent College Graduate
-  <li/>
-  <li>
-  :pencil2: Learning Full-Stack Web Development.
-  <li/>
 
-  <li>
+  :mortar_board: Recent College Graduate
+
+
+  :pencil2: Learning Full-Stack Web Development.
+
+
+
   :office: Looking for a job.
-  <li/>
+
   
-    <li>
+
   :email: samyoodev@gmail.com
-  <li/>
+
   <ul/>
