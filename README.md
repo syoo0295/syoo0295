@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 -->
 <ul>
 
-  :mortar_board: Recent College Graduate
+  :mortar_board: Enrolled in Bachelor of Computer Science
 
 
-  :pencil2: Learning Full-Stack Web Development.
+  :pencil2: Learning Cyber-Security, Network and more!
 
 
 
-  :office: Looking for a job.
+  :office: My key skills are: Python, C, Java, JavaScript, TypeScript, React
 
   
 
