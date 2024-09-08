@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   :mortar_board: Enrolled in Bachelor of Computer Science
 
 
-  :pencil2: Learning Cyber-Security, Network and more!
+  :pencil2: Learning Network Security
 
 
 
-  :office: My key skills are: Python, C, Java, JavaScript, TypeScript, React
+  :office: My key skills are: Python, C, C++, Java, JavaScript
 
   
 
