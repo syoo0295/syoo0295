@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sam Hyunsang Yoo. Let's build something fun together!
+My name is Sam Hyunsang Yoo.
 
 <!--
 **syoo0295/syoo0295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-  :office: My key skills are: Python, C, C++, Java, JavaScript
+  :office: My key skills are: Network Programming, C++, Python, Cybersecurity
 
   
 
