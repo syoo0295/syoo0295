@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 My name is Sam Hyunsang Yoo.
 
 <!--
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <ul>
 
   :mortar_board: Enrolled in Bachelor of Computer Science
@@ -31,3 +32,4 @@ Here are some ideas to get you started:
   :email: samyoodev@gmail.com
 
   <ul/>
+
